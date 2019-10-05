@@ -24,4 +24,7 @@ nav a{
 #details div{
   display: block;
   float: left;
+  background: blue;
+  text-align: center;
+  
 }
