@@ -23,5 +23,5 @@ nav a{
 /*details section could go nicely as a footer to the page,make sure each of the <div>s is floating to the left*/
 #details {
   display: block;
-  position: absolute;
+  position: relative;
 }
