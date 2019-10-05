@@ -3,3 +3,19 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center; /*Aligns it in the center*/
+}
+figure {
+  text-align: center;/*Center our image: We only have one image on the page and we would like it centered!*/
+  font-size: 12px;
+}
+nav a{
+  padding: 10px;
+  background: purple;
+}
+
+#featured-property {
+  width: 800px;
+  text-align: center;
+}
