@@ -3,3 +3,28 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center; /*Aligns it in the center*/
+}
+figure {
+  text-align: center;/*Center our image: We only have one image on the page and we would like it centered!*/
+  font-size: 12px;
+}
+nav a{
+  padding: 10px;
+  background: purple;
+}
+
+#featured-property > p {
+  text-align: center;
+  width: 800px;
+}/**/
+
+/*details section could go nicely as a footer to the page,make sure each of the <div>s is floating to the left*/
+#details div{
+  display: block;
+  float: left;
+  background: blue;
+  text-align: center;
+  width: 25%;
+}
