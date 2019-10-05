@@ -16,8 +16,8 @@ nav a{
 }
 
 #featured-property > p {
-  /*width: 800px;*/
   text-align: center;
+  width: 800px;
 }/**/
 
 /*details section could go nicely as a footer to the page,make sure each of the <div>s is floating to the left*/
